@@ -1,4 +1,4 @@
-# ICT-AP_FilesForLearners
+# Basic Java Examples
 
 This repo is just to hold files for basic java classes as an example for learners to access.
 
